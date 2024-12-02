@@ -1,7 +1,7 @@
 .heromain{
     height: 100vh;
     width: 100vw;
-    background-image: url('./img.jpg');
+    background-image: url('../img.jpg');
     background-size: cover; 
     overflow: hidden; 
     display: flex;
