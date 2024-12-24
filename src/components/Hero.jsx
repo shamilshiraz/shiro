@@ -43,6 +43,9 @@ function Hero() {
   return (
     <div className="heromain">
         <Nav/>
+        <div className="backgroundimg">
+          <img src="./img.jpg" alt="" />
+        </div>
       <div className="slidercontainer">
         <div ref={slider} className="slider">
           <p ref={first} className="hp1">Creative Developer-</p>
